@@ -9,6 +9,8 @@ module.exports = {
 
   css: [{
     href: "css/index.css"
+  }, {
+    href: "http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800"
   }]
   js: [{
     href: "js/index.js"
